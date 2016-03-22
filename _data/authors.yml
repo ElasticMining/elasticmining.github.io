@@ -53,23 +53,6 @@ bryanyang:
       url: https://twitter.com/Bryanyang0528
 
 
-#chuyuhsu:
-#  name: Chu-Yu Hsu
-#  display_name: Chu-Yu
-#  description: Chu-Yu is the Big Data jack-of-all-trades. His recent projects includes IR systems, Large-scale Named Entity Recognition, Knowledge Recommendation System, and Adaptive Strategy Planing Optimizaton with Multi-armed Bandit Machine.<br><br>Chu-Yu is an AI enthusiast who always poking around the cutting edge techniques.<br><br>
-#  email: chuyuhsu@elasticmining.com
-#  pic: chuyu
-#  position: Machine Learning Engineer
-#  gravatar: 
-#  alt: Machine Learning Engineer who loves to work with Big data
-#  social:
-#    - title: linkedin
-#      url: https://www.linkedin.com/in/chuyuhsu  
-#    - title: github
-#      url: https://github.com/ChuyuHsu
-#    - title: twitter
-#      url: https://twitter.com/ChuyuHsu
-
 ryanchao:
   name: Ryan Chao
   display_name: Ryan
@@ -140,3 +123,21 @@ larrylo:
       url: http://github.com/LarryLo
     - title: twitter
       url: http://twitter.com/LarryLo1025
+
+
+chuyuhsu:
+  name: Chu-Yu Hsu
+  display_name: Chu-Yu
+  description: Chu-Yu is the Big Data jack-of-all-trades. His recent projects includes IR systems, Large-scale Named Entity Recognition, Knowledge Recommendation System, and Adaptive Strategy Planing Optimizaton with Multi-armed Bandit Machine.<br><br>Chu-Yu is an AI enthusiast who always poking around the cutting edge techniques.<br><br>
+  email: chuyuhsu@elasticmining.com
+  pic: chuyu
+  position: Blog Writer
+  gravatar: 
+  alt: Machine Learning Engineer who loves to work with Big data
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/chuyuhsu  
+    - title: github
+      url: https://github.com/ChuyuHsu
+    - title: twitter
+      url: https://twitter.com/ChuyuHsu
